@@ -1,5 +1,7 @@
 # Learning to Reason without External Rewards
 
+[Update] The paper is accepted by ICLR 2026!
+
 [![ArXiv](https://img.shields.io/badge/arXiv-2505.19590-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.19590)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Intuitor-orange?logo=huggingface&logoColor=white)](https://huggingface.co/collections/sunblaze-ucb/intuitor-684f895c78ed2d3ef3a678b3)
 
